@@ -3,6 +3,9 @@
 *.class
 *.log
 
+# gatling
+**/results
+
 # sbt specific
 **/.cache
 **/.history
